@@ -9,6 +9,7 @@
 ## O Jogo
 Catch the apples foi desenvolvido em JavaScript utilizando HTML e uma tecnologia chama canvas.
 
+O jogo consistem em um jogador que precisa coletar maçãs e desviar dos monstros, a cada maçã coletada o jogador ganha um ponto e se colidir com um monstro a pontuação é zerada e o jogo reiniciado.
 
 ## Issues
 
